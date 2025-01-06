@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Crowd Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Bus Crowd Level Prediction</h1>
+        <form id="prediction-form">
+            <label for="time">Time (HH:MM):</label>
+            <input type="time" id="time" name="time" required>
+            <br>
+            <label for="day">Day of the Week:</label>
+            <select id="day" name="day" required>
+                <option value="0">Monday</option>
+                <option value="1">Tuesday</option>
+                <option value="2">Wednesday</option>
+                <option value="3">Thursday</option>
+                <option value="4">Friday</option>
+                <option value="5">Saturday</option>
+                <option value="6">Sunday</option>
+            </select>
+            <br>
+            <label for="weather">Weather Conditions:</label>
+            <select id="weather" name="weather" required>
+                <option value="0">Sunny</option>
+                <option value="1">Rainy</option>
+                <option value="2">Cloudy</option>
+            </select>
+            <br>
+            <label for="special_event">Special Event:</label>
+            <select id="special_event" name="special_event" required>
+                <option value="0">None</option>
+                <option value="1">Concert</option>
+                <option value="2">Holiday</option>
+            </select>
+            <br>
+            <button type="submit">Predict Crowd Level</button>
+        </form>
+        <div id="result" style="margin-top: 20px;"></div>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            $('#prediction-form').on('submit', function(event) {
+                event.preventDefault();
+                const formData = {
+                    time: $('#time').val(),
+                    day: $('#day').val(),
+                    weather: $('#weather').val(),
+                    special_event: $('#special_event').val()
+                };
+
+                $.ajax({
+                    type: 'POST',
+                    url: '/predict',
+                    contentType: 'application/json',
+                    data: JSON.stringify(formData),
+                    success: function(response) {
+                        $('#result').html(`Crowd Level: ${response.crowd_level}, Overcrowded: ${response.overcrowded}`);
+                    },
+                    error: function(xhr) {
+                        $('#result').html(`Error: ${xhr.responseJSON.error}`);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
