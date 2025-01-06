@@ -1,0 +1,408 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug: * Detected change in 'E:\\python project\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:15:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:15:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:15:40] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:15:57] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:15:58] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:16:06] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:16:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:16:14] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:16:15] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:16:16] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:16:16] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:16:16] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:16:17] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:16:17] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:17:01] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:17:01] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:17:02] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:17:02] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:17:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:20:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:20:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:20:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:20:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:20:57] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:21:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:21:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:21:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:21:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:21:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:21:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:21:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:21:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'E:\\python project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.227:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.227:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:26:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'E:\\python project\\train_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.227:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:30:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:30:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:30:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:30:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:30:44] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:30:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.227:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:34:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:34:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:34:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:34:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Error during prediction: Object of type bool is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:35:02] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'E:\\python project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.227:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:37:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:37:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:37:41] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:37:53] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:37:58] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:10] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:12] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:12] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:14] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:17] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:26] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:32] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:35] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:38:41] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:27] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:28] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:28] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:28] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:32] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:36] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:39] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:39] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:39] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:41] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:47] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:39:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:40:00] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:40:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:40:15] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:40:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:42:45] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:42:48] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:42:58] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:43:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:43:07] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\python project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.227:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:51:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:51:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:51:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:51:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:51:48] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:51:57] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:51:58] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:51:59] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:51:59] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:51:59] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:52:53] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\python project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.227:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:31] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:32] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:33] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:34] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:35] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:35] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:35] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:36] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:37] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 16:58:47] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\python project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug: * Detected change in 'E:\\python project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.227:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:05:12] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:05:13] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:05:14] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:05:14] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:05:15] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:05:20] "GET /predict_query?time=14:30&day=1&weather=0&special_event=2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:05:29] "GET /predict_query?time=14:30&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:05:50] "GET /predict_query?time=14:20&day=1&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:06:00] "GET /predict_query?time=14:20&day=2&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:06:08] "GET /predict_query?time=14:20&day=3&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\python project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.227:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:07:55] "GET /predict_query?time=14:20&day=3&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:07:59] "GET /predict_query?time=14:20&day=3&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:09:02] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:09:03] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:09:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:09:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:09:10] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:09:41] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:09:50] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:09:52] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:09:52] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:09:52] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:09:52] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:10:07] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:10:27] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:10:28] "POST /predict HTTP/1.1" 200 -
+ERROR:app:Error during prediction: 400 Bad Request: Invalid input values
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:10:44] "[35m[1mGET /predict_query?time=14:20&day=8&weather=0&special_event=1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:26:03] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:26:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:26:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:26:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:26:43] "POST /predict HTTP/1.1" 200 -
+ERROR:app:Error during prediction: 400 Bad Request: Invalid input values
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:37:06] "[35m[1mGET /predict_query?time=14:20&day=7&weather=0&special_event=1 HTTP/1.1[0m" 500 -
+ERROR:app:Error during prediction: 400 Bad Request: Invalid input values
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:37:11] "[35m[1mGET /predict_query?time=14:20&day=7&weather=0&special_event=1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:37:19] "GET /predict_query?time=14:20&day=5&weather=0&special_event=1 HTTP/1.1" 200 -
+ERROR:app:Error during prediction: 400 Bad Request: Invalid input values
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:37:31] "[35m[1mGET /predict_query?time=14:20&day=7&weather=0&special_event=1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:37:58] "GET /predict_query?time=14:20&day=0&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:39:25] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:39:26] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:39:31] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:39:33] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:39:33] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:39:34] "POST /predict HTTP/1.1" 200 -
+ERROR:app:Error during prediction: 400 Bad Request: Invalid input values
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:39:42] "[35m[1mGET /predict_query?time=14:20&day=0&weather=0&special_event=3 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:39:46] "GET /predict_query?time=14:20&day=0&weather=0&special_event=2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 17:39:51] "GET /predict_query?time=14:20&day=0&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\python project\\generate_hourly_data.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.227:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-146-083
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:12:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:12:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:12:44] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:12:49] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:12:51] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:12:56] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:02] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:07] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:12] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:14] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:14] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:15] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:15] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:19] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:21] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:23] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:26] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:32] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:37] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:43] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:49] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:13:59] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:14:15] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:14:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:14:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:14:46] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:14:48] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:14:49] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:14:54] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:14:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:15:05] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:15:15] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:15:17] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:15:29] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:15:36] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:15:39] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:15:40] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:15:40] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:15:40] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:16:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:16:29] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:16:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:16:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:17:02] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:17:08] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:17:12] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:17:18] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:17:29] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:17:34] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:17:39] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:18:16] "GET /predict_query?time=14:20&day=0&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:18:17] "GET /predict_query?time=14:20&day=0&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:18:18] "GET /predict_query?time=14:20&day=0&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:18:18] "GET /predict_query?time=14:20&day=0&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:18:19] "GET /predict_query?time=14:20&day=0&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:18:31] "GET /predict_query?time=14:20&day=0&weather=0&special_event=2 HTTP/1.1" 200 -
+ERROR:app:Error during prediction: 400 Bad Request: Invalid input values
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:18:36] "[35m[1mGET /predict_query?time=14:20&day=0&weather=0&special_event=3 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:18:42] "GET /predict_query?time=14:20&day=0&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:18:47] "GET /predict_query?time=14:20&day=0&weather=0&special_event=0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:18:54] "GET /predict_query?time=14:20&day=0&weather=0&special_event=2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:20:09] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:20:10] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:20:10] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:20:11] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:20:12] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:20:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2025 18:20:40] "POST /predict HTTP/1.1" 200 -
+ERROR:app:Error loading model: No module named 'sklearn'
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.227:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 515-482-455
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2025 06:55:59] "GET /predict_query?time=14:20&day=0&weather=0&special_event=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2025 06:55:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2025 06:56:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2025 06:56:09] "GET /static/style.css HTTP/1.1" 200 -
