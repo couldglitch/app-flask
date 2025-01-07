@@ -113,8 +113,3 @@ def internal_error(error):
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000, host='0.0.0.0')
-# Now you can make a GET request to the new endpoint
-# Example URL for testing:
-# http://127.0.0.1:5000/predict_query?time=14:30&day=1&weather=0&special_event=1
-
-# This will return a JSON response with the crowd level and overcrowding status.
